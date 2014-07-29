@@ -1,5 +1,6 @@
 package fr.agilecoder;
 
+import fr.agilecoder.pages.home.HomePage;
 import org.apache.wicket.util.tester.WicketTester;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

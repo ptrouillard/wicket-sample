@@ -1,5 +1,6 @@
 package fr.agilecoder;
 
+import fr.agilecoder.pages.home.HomePage;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.protocol.http.WebApplication;
 
